@@ -1,0 +1,6 @@
+c:\users\sve\documents\visual studio 2013\Projects\1. Introduction-to-Programming-Homework\CalcSquareRoot\bin\Debug\CalcSquareRoot.exe.config
+c:\users\sve\documents\visual studio 2013\Projects\1. Introduction-to-Programming-Homework\CalcSquareRoot\bin\Debug\CalcSquareRoot.exe
+c:\users\sve\documents\visual studio 2013\Projects\1. Introduction-to-Programming-Homework\CalcSquareRoot\bin\Debug\CalcSquareRoot.pdb
+c:\users\sve\documents\visual studio 2013\Projects\1. Introduction-to-Programming-Homework\CalcSquareRoot\obj\Debug\CalcSquareRoot.csprojResolveAssemblyReference.cache
+c:\users\sve\documents\visual studio 2013\Projects\1. Introduction-to-Programming-Homework\CalcSquareRoot\obj\Debug\CalcSquareRoot.exe
+c:\users\sve\documents\visual studio 2013\Projects\1. Introduction-to-Programming-Homework\CalcSquareRoot\obj\Debug\CalcSquareRoot.pdb

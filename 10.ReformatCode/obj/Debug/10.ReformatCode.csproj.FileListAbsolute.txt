@@ -1,0 +1,5 @@
+c:\users\sve\documents\visual studio 2013\Projects\1. Introduction-to-Programming-Homework\10.ReformatCode\bin\Debug\10.ReformatCode.exe.config
+c:\users\sve\documents\visual studio 2013\Projects\1. Introduction-to-Programming-Homework\10.ReformatCode\bin\Debug\10.ReformatCode.exe
+c:\users\sve\documents\visual studio 2013\Projects\1. Introduction-to-Programming-Homework\10.ReformatCode\bin\Debug\10.ReformatCode.pdb
+c:\users\sve\documents\visual studio 2013\Projects\1. Introduction-to-Programming-Homework\10.ReformatCode\obj\Debug\10.ReformatCode.exe
+c:\users\sve\documents\visual studio 2013\Projects\1. Introduction-to-Programming-Homework\10.ReformatCode\obj\Debug\10.ReformatCode.pdb

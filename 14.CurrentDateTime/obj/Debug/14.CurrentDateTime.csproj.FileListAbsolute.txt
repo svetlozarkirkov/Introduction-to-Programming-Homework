@@ -1,0 +1,5 @@
+c:\users\sve\documents\visual studio 2013\Projects\1. Introduction-to-Programming-Homework\14.CurrentDateTime\bin\Debug\14.CurrentDateTime.exe.config
+c:\users\sve\documents\visual studio 2013\Projects\1. Introduction-to-Programming-Homework\14.CurrentDateTime\bin\Debug\14.CurrentDateTime.exe
+c:\users\sve\documents\visual studio 2013\Projects\1. Introduction-to-Programming-Homework\14.CurrentDateTime\bin\Debug\14.CurrentDateTime.pdb
+c:\users\sve\documents\visual studio 2013\Projects\1. Introduction-to-Programming-Homework\14.CurrentDateTime\obj\Debug\14.CurrentDateTime.exe
+c:\users\sve\documents\visual studio 2013\Projects\1. Introduction-to-Programming-Homework\14.CurrentDateTime\obj\Debug\14.CurrentDateTime.pdb

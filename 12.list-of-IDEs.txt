@@ -1,0 +1,9 @@
+Microsoft Visual Studio - integrated development environment (IDE) from Microsoft. It is used to develop computer programs for Microsoft Windows, as well as web sites, web applications and web services. Visual Studio uses Microsoft software development platforms such as Windows API, Windows Forms, Windows Presentation Foundation, Windows Store and Microsoft Silverlight. It can produce both native code and managed code.
+
+Eclipse - This is the best alternative if you are not a big fan of Microsoft’s Visual Studio. The interface is a lot cleaner and concise than Visual Studio and the languages that are possible to use extend past the .Net Framework. Besides being the number on way to develop Android applications via the Android SDK, it is fully extensible to use languages such as Ruby, C, C++ and many many more.
+
+phpDesigner - offers support for PHP debugging and profiling; It also supports all standard web languages, and offers TortoiseSVN support, and live error detection for PHP, HTML, and CSS. A code snippets library and built-in PHP manual for beginners only sweeten this pot.
+
+IntelliJ IDEA - Out of the box, IntelliJ IDEA provides a comprehensive feature set including tools and integrations with the most important modern technologies and frameworks for enterprise and web development with Java, Scala, Groovy and other languages. Features built-in developer tools, web development, enterprise frameworks and mobile devices development support.
+
+Komodo IDE - Cross-Platform IDE for Python, PHP, Ruby, Perl, Tcl, NodeJS, HTML, CSS and JavaScript.Open Komodo uses Mozilla and Scintilla code base as they share many features and support the same languages (including Python, Perl, PHP, Ruby, Tcl, SQL, Smarty, CSS, HTML and XML) and computer platforms (Linux, Mac OS X, and Windows). The editor component is implemented using the NPAPI, with the Scintilla view embedded in the XUL interface in the same manner as a web browser plugin.
